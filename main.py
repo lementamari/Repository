@@ -6,3 +6,6 @@ print(factorial(n))
 print(fibonacci(n))
 
 print(is_prime(n))
+
+
+print(gcd(a,b))
